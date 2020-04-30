@@ -10,7 +10,7 @@
   "dependencies": {
     "@rails/webpacker": "4.2.2",
     "eth-url-parser": "^1.0.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "payspec-cli": "file:../payspec-cli",
     "qrcode": "^1.4.4",
     "vue": "^2.6.11",
